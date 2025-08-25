@@ -1,3 +1,5 @@
+# Updated Django CI workflow - fixed Python versions
+
 name: Django CI
 
 on:
